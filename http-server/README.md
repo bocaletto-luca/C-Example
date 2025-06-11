@@ -10,7 +10,7 @@ Server HTTP minimale scritto in C. Risponde con il contenuto di `public/index.ht
 
 ## 🚀 Avvio Rapido
 
-git clone https://github.com/bocaletto-luca/http-server.git
+git clone https://github.com/bocaletto-luca/c-example/http-server.git
 cd http-server
 make
 ./http-server
