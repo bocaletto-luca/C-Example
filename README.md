@@ -1,4 +1,4 @@
-# C-Example
+# Language C - Example
 #### Author: Bocaletto Luca
 
-C-Example Collection
+Language C - Example Collection
