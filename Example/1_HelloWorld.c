@@ -1,7 +1,7 @@
 /*
  * Project 1: Hello World Program
- * Author: Your Name
- * Date: YYYY-MM-DD
+ * Author: Bocaletto Luca
+ * Date: 2025-06-22
  *
  * Description:
  * This simple program demonstrates the fundamental structure of a C program.
