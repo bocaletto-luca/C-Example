@@ -1,7 +1,7 @@
 /*
  * Project 2: Simple Calculator
- * Author: Your Name
- * Date: YYYY-MM-DD
+ * Author: Bocaletto Luca
+ * Date: 2025-06-22
  *
  * Description:
  * This program functions as a simple calculator capable of performing basic 
